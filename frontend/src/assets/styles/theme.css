@@ -1,0 +1,27 @@
+:root {
+
+  /* WRUL Brand Colors */
+
+  --primary-green: #0B6B3A;
+
+  --secondary-gold: #D4AF37;
+
+  --dark-text: #1E293B;
+
+  --light-background: #F8FAFC;
+
+  --white: #FFFFFF;
+
+
+  /* Typography */
+
+  --heading-font: "Poppins", sans-serif;
+
+  --body-font: "Inter", sans-serif;
+
+
+  /* Spacing */
+
+  --container-width: 1280px;
+
+}
