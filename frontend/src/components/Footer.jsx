@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import {
   FaFacebookF,
   FaLinkedinIn,
@@ -58,17 +59,90 @@ function Footer() {
 
             <ul className="space-y-3 text-sm">
 
-              <li>About Us</li>
+  <li>
 
-              <li>Admissions</li>
+    <Link
+      to="/about"
+      className="hover:text-white transition"
+    >
 
-              <li>Academic Programs</li>
+      About Us
 
-              <li>Research</li>
+    </Link>
 
-              <li>Contact</li>
+  </li>
 
-            </ul>
+
+  <li>
+
+    <Link
+      to="/admissions"
+      className="hover:text-white transition"
+    >
+
+      Admissions
+
+    </Link>
+
+  </li>
+
+
+  <li>
+
+    <Link
+      to="/academics"
+      className="hover:text-white transition"
+    >
+
+      Academic Programs
+
+    </Link>
+
+  </li>
+
+
+  <li>
+
+    <Link
+      to="/research"
+      className="hover:text-white transition"
+    >
+
+      Research
+
+    </Link>
+
+  </li>
+
+
+  <li>
+
+    <Link
+      to="/student-life"
+      className="hover:text-white transition"
+    >
+
+      Student Life
+
+    </Link>
+
+  </li>
+
+
+  <li>
+
+    <Link
+      to="/contact"
+      className="hover:text-white transition"
+    >
+
+      Contact
+
+    </Link>
+
+  </li>
+
+</ul>
 
 
           </div>
@@ -182,7 +256,7 @@ function Footer() {
           <p className="text-sm">
 
             © 2026 Western Region University of Liberia.
-            All Rights Reserved.
+            All Rights Reserved. Coded by: Emmanuel Nyuah Brefo
 
           </p>
 
