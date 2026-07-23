@@ -9,6 +9,9 @@ import Research from "../pages/Research";
 import StudentLife from "../pages/StudentLife";
 import News from "../pages/News";
 import Contact from "../pages/Contact";
+import StudentPortal from "../pages/StudentPortal";
+import Library from "../pages/Library";
+import Downloads from "../pages/Downloads";
 
 import Hero from "../sections/home/Hero";
 import Introduction from "../sections/home/Introduction";
@@ -22,11 +25,8 @@ import CTA from "../sections/home/CTA";
 
 
 function Home() {
-
   return (
-
     <>
-
       <Hero />
 
       <Introduction />
@@ -44,169 +44,133 @@ function Home() {
       <Testimonials />
 
       <CTA />
-
     </>
-
   );
-
 }
 
 
 function AppRoutes() {
-
   return (
-
     <BrowserRouter>
 
       <Routes>
 
-
         {/* Homepage */}
-
         <Route
-
           path="/"
-
           element={
-
             <MainLayout>
-
               <Home />
-
             </MainLayout>
-
           }
-
         />
-
 
         {/* About Page */}
-
         <Route
-
           path="/about"
-
           element={
-
             <MainLayout>
-
               <About />
-
             </MainLayout>
-
           }
-
         />
-
 
         {/* Academics Page */}
-
         <Route
-
           path="/academics"
-
           element={
-
             <MainLayout>
-
               <Academics />
-
             </MainLayout>
-
           }
-
         />
-
 
         {/* Admissions Page */}
-
         <Route
-
           path="/admissions"
-
           element={
-
             <MainLayout>
-
               <Admissions />
-
             </MainLayout>
-
           }
-
         />
-
 
         {/* Research Page */}
-
         <Route
-
           path="/research"
-
           element={
-
             <MainLayout>
-
               <Research />
-
             </MainLayout>
-
           }
-
         />
 
+        {/* Student Life Page */}
         <Route
-  path="/student-life"
-  element={
-    <MainLayout>
-      <StudentLife />
-    </MainLayout>
-  }
-/>
-{/* News Page */}
+          path="/student-life"
+          element={
+            <MainLayout>
+              <StudentLife />
+            </MainLayout>
+          }
+        />
+
+        {/* News Page */}
+        <Route
+          path="/news"
+          element={
+            <MainLayout>
+              <News />
+            </MainLayout>
+          }
+        />
+
+        {/* Contact Page */}
+        <Route
+          path="/contact"
+          element={
+            <MainLayout>
+              <Contact />
+            </MainLayout>
+          }
+        />
+
+        {/* Student Portal Page */}
+        <Route
+          path="/student-portal"
+          element={
+            <MainLayout>
+              <StudentPortal />
+            </MainLayout>
+          }
+        />
+
+        {/* Library Page */}
 
 <Route
-
-  path="/news"
-
+  path="/library"
   element={
-
     <MainLayout>
-
-      <News />
-
+      <Library />
     </MainLayout>
-
   }
-
 />
 
-{/* Contact Page */}
+{/* Downloads Page */}
 
 <Route
-
-  path="/contact"
-
+  path="/downloads"
   element={
-
     <MainLayout>
-
-      <Contact />
-
+      <Downloads />
     </MainLayout>
-
   }
-
 />
-
-
 
       </Routes>
 
     </BrowserRouter>
-
   );
-
 }
 
 
