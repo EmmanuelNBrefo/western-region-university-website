@@ -12,13 +12,16 @@ import Contact from "../pages/Contact";
 import StudentPortal from "../pages/StudentPortal";
 import Library from "../pages/Library";
 import Downloads from "../pages/Downloads";
+import FeaturedNews from "../pages/FeaturedNews";
+import LatestNews from "../pages/LatestNews";
+import UniversityEvents from "../pages/UniversityEvents";
+import Announcements from "../pages/Announcements";
 
 import Hero from "../sections/home/Hero";
 import Introduction from "../sections/home/Introduction";
 import Faculties from "../sections/home/Faculties";
 import WhyChoose from "../sections/home/WhyChoose";
 import HomePrograms from "../sections/home/Programs";
-import FeaturedNews from "../pages/FeaturedNews";
 
 import Gallery from "../sections/home/Gallery";
 import Testimonials from "../sections/home/Testimonials";
@@ -173,6 +176,40 @@ function AppRoutes() {
   element={
     <MainLayout>
       <FeaturedNews />
+    </MainLayout>
+  }
+/>
+
+{/* Latest News */}
+
+<Route
+  path="/news/latest"
+  element={
+    <MainLayout>
+      <LatestNews />
+    </MainLayout>
+  }
+/>
+
+{/* University Events */}
+
+<Route
+  path="/news/events"
+  element={
+    <MainLayout>
+      <UniversityEvents />
+    </MainLayout>
+  }
+/>
+
+
+{/* Announcements */}
+
+<Route
+  path="/news/announcements"
+  element={
+    <MainLayout>
+      <Announcements />
     </MainLayout>
   }
 />
