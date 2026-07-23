@@ -18,6 +18,7 @@ import Introduction from "../sections/home/Introduction";
 import Faculties from "../sections/home/Faculties";
 import WhyChoose from "../sections/home/WhyChoose";
 import HomePrograms from "../sections/home/Programs";
+import FeaturedNews from "../pages/FeaturedNews";
 
 import Gallery from "../sections/home/Gallery";
 import Testimonials from "../sections/home/Testimonials";
@@ -166,6 +167,17 @@ function AppRoutes() {
     </MainLayout>
   }
 />
+
+<Route
+  path="/news/featured"
+  element={
+    <MainLayout>
+      <FeaturedNews />
+    </MainLayout>
+  }
+/>
+
+
 
       </Routes>
 
