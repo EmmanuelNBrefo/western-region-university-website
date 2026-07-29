@@ -60,7 +60,7 @@ function ResearchEthics() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia promotes responsible,
+            Western Region University promotes responsible,
             ethical, honest, and academically sound research practices.
 
           </p>

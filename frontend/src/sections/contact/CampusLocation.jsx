@@ -18,7 +18,7 @@ function CampusLocation() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Visit Western Region University of Liberia at our campus in
+            Visit Western Region University at our campus in
             Tubmanburg, Bomi County, Liberia.
 
           </p>

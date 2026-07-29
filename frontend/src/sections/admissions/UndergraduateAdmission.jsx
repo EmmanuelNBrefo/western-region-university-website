@@ -39,8 +39,7 @@ function UndergraduateAdmission() {
 
             <p className="mt-5 text-gray-600 leading-8">
 
-              Undergraduate admission at Western Region University of
-              Liberia provides students with the opportunity to begin their
+              Undergraduate admission at Western Region University provides students with the opportunity to begin their
               higher education journey and develop the knowledge, skills,
               and professional competencies needed for future success.
 

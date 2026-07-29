@@ -23,7 +23,7 @@ function FacultyStudentResearch() {
             <p className="text-gray-600 leading-8">
 
               Faculty members play an important role in advancing research
-              and knowledge creation at Western Region University of Liberia.
+              and knowledge creation at Western Region University.
               Faculty research may contribute to academic scholarship,
               professional development, policy discussions, and national
               development.

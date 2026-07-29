@@ -63,7 +63,7 @@ function ContactInformation() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Get in touch with Western Region University of Liberia through
+            Get in touch with Western Region University through
             our official contact channels.
 
           </p>

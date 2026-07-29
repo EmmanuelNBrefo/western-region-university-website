@@ -44,7 +44,7 @@ function Hero() {
             max-w-3xl
           "
         >
-          Western Region University of Liberia
+          Western Region University
         </h1>
 
 

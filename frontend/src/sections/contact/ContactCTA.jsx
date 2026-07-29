@@ -21,7 +21,7 @@ function ContactCTA() {
 
           Whether you are a prospective student, current student, parent,
           staff member, or partner, we welcome you to connect with Western
-          Region University of Liberia.
+          Region University.
 
         </p>
 

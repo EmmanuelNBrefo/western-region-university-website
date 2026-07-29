@@ -10,7 +10,7 @@ function Logo() {
 
       <img
         src={logo}
-        alt="Western Region University of Liberia Logo"
+        alt="Western Region University Logo"
         className="
           h-14
           w-14
@@ -41,7 +41,7 @@ function Logo() {
           "
         >
 
-          Western Region University of Liberia
+          Western Region University
 
         </h1>
 

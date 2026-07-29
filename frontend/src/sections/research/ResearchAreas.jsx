@@ -60,7 +60,7 @@ function ResearchAreas() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia encourages research across
+            Western Region University encourages research across
             diverse academic and professional disciplines that contribute to
             knowledge, innovation, and national development.
 

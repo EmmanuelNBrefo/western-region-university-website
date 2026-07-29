@@ -17,7 +17,7 @@ function Footer() {
           {/* University Info */}
           <div>
             <h2 className="text-white text-xl font-bold mb-5">
-              Western Region University of Liberia
+              Western Region University
             </h2>
 
             <p className="text-sm leading-7">
@@ -142,7 +142,7 @@ function Footer() {
 
               <p className="flex gap-3 items-center">
                 <FaPhoneAlt />
-                +231 77 000 0000
+                +231 77 57122 22 / +231 88 07160 13
               </p>
 
               <p className="flex gap-3 items-center">
@@ -170,7 +170,7 @@ function Footer() {
           gap-4
         ">
           <p className="text-sm">
-            © 2026 Western Region University of Liberia.
+            © 2026 Western Region University.
             All Rights Reserved. Coded by: Emmanuel Nyuah Brefo
           </p>
 

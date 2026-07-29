@@ -44,7 +44,7 @@ function Announcements() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
             Stay informed about important announcements, notices, updates,
-            and information from Western Region University of Liberia.
+            and information from Western Region University.
           </p>
 
         </div>

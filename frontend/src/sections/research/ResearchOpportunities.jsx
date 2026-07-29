@@ -54,7 +54,7 @@ function ResearchOpportunities() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia provides opportunities for
+            Western Region University provides opportunities for
             faculty, students, and collaborators to participate in research,
             innovation, and knowledge creation.
 

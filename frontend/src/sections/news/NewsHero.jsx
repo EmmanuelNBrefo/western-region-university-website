@@ -15,7 +15,7 @@ function NewsHero() {
         <p className="mt-5 text-lg text-green-100 max-w-3xl mx-auto leading-8">
 
           Stay informed about the latest news, announcements, events, and
-          important developments at Western Region University of Liberia.
+          important developments at Western Region University.
 
         </p>
 

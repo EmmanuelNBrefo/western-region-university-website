@@ -16,7 +16,7 @@ function AcademicsCTA() {
 
         <p className="mt-5 text-green-100 max-w-3xl mx-auto leading-7">
 
-          Explore opportunities at Western Region University of Liberia
+          Explore opportunities at Western Region University
           and take the next step toward achieving your academic and
           professional goals.
 

@@ -40,7 +40,7 @@ function LatestNews() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
             Stay updated with the latest news and developments from Western
-            Region University of Liberia.
+            Region University.
           </p>
 
         </div>

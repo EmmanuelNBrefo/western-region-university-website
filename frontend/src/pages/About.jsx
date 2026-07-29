@@ -20,7 +20,7 @@ function About() {
 
           <h1 className="text-4xl md:text-5xl font-bold">
 
-            About Western Region University of Liberia
+            About Western Region University
 
           </h1>
 
@@ -70,7 +70,7 @@ function About() {
                 mb-5
               ">
 
-                Western Region University of Liberia is committed
+                Western Region University is committed
                 to providing quality higher education that prepares
                 students with the knowledge, skills, and values
                 needed to contribute meaningfully to society.
@@ -138,7 +138,7 @@ function About() {
 
             <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-              Western Region University of Liberia is a government-sponsored
+              Western Region University is a government-sponsored
               institution committed to supporting Liberia's national education
               and higher education development goals.
 

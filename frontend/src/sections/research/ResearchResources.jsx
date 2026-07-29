@@ -60,7 +60,7 @@ function ResearchResources() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia supports research and
+            Western Region University supports research and
             academic work through resources, technology, collaboration,
             and research support opportunities.
 

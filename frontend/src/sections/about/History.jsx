@@ -20,7 +20,7 @@ function History() {
 
             <p className="text-gray-600 leading-8 mb-5">
 
-              Western Region University of Liberia was established
+              Western Region University was established
               to expand access to quality higher education and
               contribute to the educational and socio-economic
               development of Liberia's western region.

@@ -17,7 +17,7 @@ function AdmissionsCTA() {
         <p className="mt-5 text-green-100 max-w-3xl mx-auto leading-7">
 
           Take the next step toward your academic and professional future
-          at Western Region University of Liberia.
+          at Western Region University.
 
         </p>
 

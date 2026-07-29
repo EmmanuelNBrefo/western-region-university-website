@@ -67,7 +67,7 @@ function AdmissionProcess() {
 
             Our admission process is designed to guide prospective students
             through each important step toward joining Western Region
-            University of Liberia.
+            University.
 
           </p>
 

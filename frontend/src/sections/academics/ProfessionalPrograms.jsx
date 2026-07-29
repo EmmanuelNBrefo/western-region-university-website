@@ -47,7 +47,7 @@ function ProfessionalPrograms() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia provides flexible
+            Western Region University provides flexible
             professional and continuing education opportunities designed
             to support lifelong learning, career development, and
             professional growth.

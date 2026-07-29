@@ -76,7 +76,7 @@ function AcademicResources() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia provides academic resources
+            Western Region University provides academic resources
             and support services to help students achieve their educational
             goals and succeed in their academic programs.
 

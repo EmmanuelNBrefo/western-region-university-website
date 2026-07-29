@@ -23,7 +23,7 @@ function ResearchOverview() {
             <p className="mt-5 text-gray-600 leading-8">
 
               Research is an important part of the mission of Western Region
-              University of Liberia. Through research and innovation, the
+              University. Through research and innovation, the
               university seeks to expand knowledge, address real-world
               challenges, and contribute to the social and economic
               development of Liberia.

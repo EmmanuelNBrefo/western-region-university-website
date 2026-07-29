@@ -18,7 +18,7 @@ function AcademicPrograms() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
-            Western Region University of Liberia offers academic
+            Western Region University offers academic
             programs designed to prepare students with the knowledge,
             skills, and professional competencies needed to contribute
             to Liberia and the global community.

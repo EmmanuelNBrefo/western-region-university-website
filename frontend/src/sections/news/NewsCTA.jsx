@@ -20,8 +20,7 @@ function NewsCTA() {
         <p className="mt-5 text-green-100 max-w-3xl mx-auto leading-7">
 
           Stay informed about university news, important announcements,
-          upcoming events, and developments at Western Region University
-          of Liberia.
+          upcoming events, and developments at Western Region University.
 
         </p>
 

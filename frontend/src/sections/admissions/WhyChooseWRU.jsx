@@ -60,7 +60,7 @@ function WhyChooseWRU() {
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
 
             Choosing a university is an important decision. Western Region
-            University of Liberia provides opportunities designed to support
+            University provides opportunities designed to support
             academic success, personal development, and professional growth.
 
           </p>

@@ -16,7 +16,7 @@ function AdmissionsHero() {
 
         <p className="mt-5 text-lg text-green-100 max-w-3xl mx-auto leading-8">
 
-          Begin your journey at Western Region University of Liberia.
+          Begin your journey at Western Region University.
           Discover academic opportunities, develop your potential, and
           prepare for a successful future through quality higher education.
 

@@ -6,7 +6,7 @@ const events = [
 
     date: "August 2026",
 
-    location: "Western Region University of Liberia",
+    location: "Western Region University",
 
     description:
       "An academic seminar designed to promote knowledge sharing, critical thinking, research, and professional development.",
@@ -17,7 +17,7 @@ const events = [
 
     date: "August 2026",
 
-    location: "Western Region University of Liberia",
+    location: "Western Region University",
 
     description:
       "An orientation program to welcome students and help them become familiar with the university community, academic environment, and student services.",
@@ -28,7 +28,7 @@ const events = [
 
     date: "September 2026",
 
-    location: "Western Region University of Liberia",
+    location: "Western Region University",
 
     description:
       "A forum that brings together students, faculty, and collaborators to share ideas, research findings, and innovative solutions.",
@@ -49,7 +49,7 @@ function UniversityEvents() {
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto leading-7">
             Discover upcoming events, activities, and programs taking place
-            within the Western Region University of Liberia community.
+            within the Western Region University community.
           </p>
 
         </div>

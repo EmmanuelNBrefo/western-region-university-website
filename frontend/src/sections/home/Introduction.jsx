@@ -13,7 +13,7 @@ function Introduction() {
 
           <h2 className="text-3xl md:text-4xl font-bold text-green-700">
 
-            About Western Region University of Liberia
+            About Western Region University
 
           </h2>
 

@@ -62,7 +62,7 @@ function ApplicationInformation() {
 
             Prospective students should carefully review the admission
             information and prepare all necessary documents before
-            submitting an application to Western Region University of Liberia.
+            submitting an application to Western Region University.
 
           </p>
 

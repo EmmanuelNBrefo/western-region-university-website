@@ -16,7 +16,7 @@ function ResearchHero() {
 
         <p className="mt-5 text-lg text-green-100 max-w-3xl mx-auto leading-8">
 
-          Western Region University of Liberia promotes research, innovation,
+          Western Region University promotes research, innovation,
           critical thinking, and knowledge creation to address challenges and
           contribute to the development of Liberia and the global community.
 

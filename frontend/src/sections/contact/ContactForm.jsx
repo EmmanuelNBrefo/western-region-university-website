@@ -77,7 +77,7 @@ function ContactForm() {
             <p className="mt-5 text-gray-600 leading-8">
 
               Have a question or need more information? Complete the form
-              and send your inquiry to Western Region University of Liberia.
+              and send your inquiry to Western Region University.
 
             </p>
 

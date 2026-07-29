@@ -2,14 +2,14 @@ import { Link } from "react-router-dom";
 
 const featuredNews = {
   title:
-    "Western Region University of Liberia Advances Education, Research, and Innovation",
+    "Western Region University Advances Education, Research, and Innovation",
 
   date: "July 2026",
 
   category: "University News",
 
   description:
-    "Western Region University of Liberia continues to strengthen its commitment to quality education, research, innovation, technology, and the development of future leaders in Liberia.",
+    "Western Region University continues to strengthen its commitment to quality education, research, innovation, technology, and the development of future leaders in Liberia.",
 };
 
 

@@ -17,7 +17,7 @@ function ContactHero() {
         <p className="mt-5 text-lg text-green-100 max-w-3xl mx-auto leading-8">
 
           We welcome your questions, inquiries, feedback, and interest in
-          Western Region University of Liberia.
+          Western Region University.
 
         </p>
 
